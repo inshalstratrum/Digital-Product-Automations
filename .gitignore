@@ -1,0 +1,19 @@
+# Environment & Secrets (Never commit actual credentials)
+.env
+.env*.local
+*.secret
+*Secret*.txt
+
+# Node
+node_modules/
+npm-debug.log*
+
+# Supabase local volumes & generated files
+.supabase/
+
+# OS & Editor
+.DS_Store
+Thumbs.db
+Desktop.ini
+.vscode/
+.idea/

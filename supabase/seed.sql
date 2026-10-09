@@ -1,0 +1,2 @@
+-- Intentionally empty. Create the first authenticated owner, workspace, and live product
+-- through the setup steps in README.md; production-like identities are never hard-coded.
